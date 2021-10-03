@@ -1,1 +1,1 @@
-worker: npm install && npm install express && npm install cors node index
+worker: npm install && npm install express && npm install cors && node index
